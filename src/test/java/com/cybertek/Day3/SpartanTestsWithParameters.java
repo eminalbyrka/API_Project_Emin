@@ -17,7 +17,7 @@ public class SpartanTestsWithParameters {
     @BeforeAll
     public static void init(){
 
-        baseURI="http://54.90.15.74:8000";
+        baseURI="http://3.208.2.75:8000";
 
     }
 /* Given accept type is Json
